@@ -1,16 +1,16 @@
 Olá 👋 Meu nome é Diogo
 ==========================
 
-Desenvolvedor Front-End
+Desenvolvedor Front-End 📚 🐱‍💻📚
 -----------------------------
 
-Tenho 28 anos e adoro muito a área de desenvolvimento front-end. Sempre em busca de evoluir e aprender novas tecnologias! 
+Tenho 28 anos e adoro a área de desenvolvimento front-end, é onde me indentifico muito. Sempre em busca de evoluir e aprender novas tecnologias! 🙅‍♂️😁
 
 * 🌍  Moro em São paulo!
 * ✉️  Você pode entrar em contato comigo em [diogojd2010@gmail.com](mailto:diogojd2010@gmail.com)
-* 🧠  Estou aprendendo NextJS!
+* 🧠  No momento estou estudando NextJS!
 * 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas!
-* ⚡  Adoro cinema esportes e academia!
+* 🎞💪 Adoro Cinema e Esportes!
 
 ## Hard Skills
 
@@ -31,9 +31,11 @@ Tenho 28 anos e adoro muito a área de desenvolvimento front-end. Sempre em busc
 
 ### Redes
 
-<p align="left"> <a href="https://discord.com/users/Diogo Alves#4878" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/diogokenway" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2368/PNG/512/github_logo_icon_143772.png" width="32" height="32" /></a>
+<p align="left">
+<a href="https://discord.com/users/Diogo Alves#4878" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/diogokenway" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2368/PNG/512/github_logo_icon_143772.png" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/diogo-alves94/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="mailto:diogojd2010@gmail.com" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="32" height="32" /></a>
 </p>
 
 ### Badges
@@ -48,6 +50,6 @@ Tenho 28 anos e adoro muito a área de desenvolvimento front-end. Sempre em busc
 
 ![Snake animation](https://github.com/diogokenway/diogokenway/blob/output/github-contribution-grid-snake.svg)
 
-<a href="https://www.buymeacoffee.com/"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+<a href="#"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 
 
