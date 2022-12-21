@@ -46,6 +46,8 @@ Tenho 28 anos e adoro muito a área de desenvolvimento front-end. Sempre em busc
 
 <a href="https://github.com/diogokenway" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=diogokenway&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+![Snake animation](https://github.com/diogokenway/diogokenway/blob/output/github-contribution-grid-snake.svg)
+
 <a href="https://www.buymeacoffee.com/"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 
 
