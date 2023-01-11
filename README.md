@@ -8,7 +8,7 @@ Tenho 28 anos e adoro a área de desenvolvimento front-end, é onde me indentifi
 
 * 🌍  Moro em São paulo!
 * ✉️  Você pode entrar em contato comigo em [diogojd2010@gmail.com](mailto:diogojd2010@gmail.com)
-* 🧠  No momento estou estudando NextJS!
+* 🧠  Atualmente estudando NextJS, Sempre em constante evolução!
 * 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas!
 * 🎞💪 Adoro Cinema e Esportes!
 
